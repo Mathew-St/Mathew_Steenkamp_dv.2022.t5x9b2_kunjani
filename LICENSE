@@ -659,3 +659,10 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+## License  
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
+**Additional restrictions apply:**  
+- Commercial use is **prohibited without explicit written permission**.  
+- Redistribution in **closed-source projects is not allowed**, even if modified.  
+- Contact the author for licensing exceptions.  
