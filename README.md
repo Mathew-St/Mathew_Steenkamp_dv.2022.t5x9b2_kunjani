@@ -1,17 +1,28 @@
 # Kunjani-eCommerce
 
 
-Project Structure:
+Repository Structure
 kunjani_htdocs_sql/
-├── kunjaniDB.sql                   # Database dump exported from InfinityFree
-└── kunjanihtdocs/
-    └── htdocs/
-        ├── index.php              # Landing page
-        └── C2CeCommerceWebsite/
-            ├── *.php             # All backend logic
-            ├── *.css, *.js       # Styles and scripts
-            ├── uploads/          # Uploaded product images
-            └── images/           # Static assets
+
+kunjaniDB.sql – Database dump exported from InfinityFree
+
+kunjanihtdocs/
+
+htdocs/
+
+index.php – Landing page
+
+C2CeCommerceWebsite/
+
+*.php – All backend logic files
+
+*.css, *.js – Stylesheets and JavaScript files
+
+uploads/ – Uploaded product images
+
+images/ – Static image assets
+
+
 
 How to Set Up the Website
 1. Clone or Download the Repository
