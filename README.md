@@ -1,30 +1,19 @@
 # Kunjani-eCommerce
 
+## Repository Structure
 
-Repository Structure
-kunjani_htdocs_sql/
+- `kunjani_htdocs_sql/`
+  - `kunjaniDB.sql` – Database dump exported from InfinityFree
+  - `kunjanihtdocs/`
+    - `htdocs/`
+      - `index.php` – Landing page
+      - `C2CeCommerceWebsite/`
+        - `*.php` – All backend logic files
+        - `*.css`, `*.js` – Stylesheets and JavaScript files
+        - `uploads/` – Uploaded product images
+        - `images/` – Static image assets
 
-kunjaniDB.sql – Database dump exported from InfinityFree
-
-kunjanihtdocs/
-
-htdocs/
-
-index.php – Landing page
-
-C2CeCommerceWebsite/
-
-*.php – All backend logic files
-
-*.css, *.js – Stylesheets and JavaScript files
-
-uploads/ – Uploaded product images
-
-images/ – Static image assets
-
-
-
-How to Set Up the Website
+## How to Set Up the Website
 1. Clone or Download the Repository
 2. Import the Database
 --> import the kunjaniDB.sql file located in the kunjani_htdocs_sql/ folder
