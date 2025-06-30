@@ -25,3 +25,10 @@ Important: The .sql file must be updated to the database name to match the name 
 Place the kunjanihtdocs/htdocs/ folder into your local web server directory
 5. Edit http://localhost/index.php accordingly
 --> The site should load with full functionality
+
+## License  
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
+**Additional restrictions apply:**  
+- Commercial use is **prohibited without explicit written permission**.  
+- Redistribution in **closed-source projects is not allowed**, even if modified.  
+- Contact the author for licensing exceptions. 
